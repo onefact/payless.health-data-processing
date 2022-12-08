@@ -1,0 +1,23 @@
+{
+  "\ufeff\"entity_cd\"": "unknown_column",
+  "contract_name": "unknown_column",
+  "product_name": "unknown_column",
+  "code": "unknown_code",
+  "code_type": "unknown_code",
+  "code_desc": "unknown_code",
+  "area": "unknown_column",
+  "rate_method": "unknown_column",
+  "rev_code": "unknown_code",
+  "rev_desc": "unknown_column",
+  "hcpcs": "unknown_column",
+  "implied_quantity": "unknown_column",
+  "modifier": "unknown_column",
+  "standard_gross_charge": "total_charge",
+  "payer_specific_negotiated_rate": "unknown_column",
+  "minimum_negotiated": "unknown_column",
+  "maximum_negotiated": "unknown_column",
+  "count_of_compared_rates": "unknown_column",
+  "discounted_cash_price": "total_charge",
+  "rate_desc": "unknown_column",
+  "footnote": "unknown_column"
+}
