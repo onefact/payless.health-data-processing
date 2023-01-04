@@ -1,4 +1,4 @@
-# Payless Health Data Standards
+# Payless Health Data
 
 This repository contains data standards and schema normalization methods for the Payless Health ecosystem of hospital prices and insurance prices and associated data.
 
